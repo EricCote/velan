@@ -1,5 +1,5 @@
-Instructions
-============
+#Instructions
+
 
 Bonjour Velan!
 
@@ -26,7 +26,7 @@ You'll need to unzip and restore the backups.
 
 *Note:* there are different versions of Adventure Works.  You can install an older version of Adventure Works on a newer version of Sql Server, but not the other way around.  (I.E.: You can install Adventure Works 2012 on SQL Server 2014, but not Adventure Works 2016.) 
 
-## other steps
+## Other steps
 
 1. You need SSDT BI 2014 if you don't have it installed. Here is a link.
 http://www.microsoft.com/en-us/download/details.aspx?id=42313
